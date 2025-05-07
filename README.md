@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiren-joshi&show_icons=true&locale=en&layout=compact" alt="dhiren-joshi" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiren-joshi&theme=tokyonight" alt="GitHub streak"/>
-</p>
+
 
 
 [![An image of @dhirenjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhirenjoshi)](https://holopin.io/@dhirenjoshi)
