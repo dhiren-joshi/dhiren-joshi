@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Cloud technology(AWS and GCP) and Devops**
 
-- 📫 How to reach me **dhirenjoshi2003@gmail.com**
+- 📫 How to reach me: **dhirenjoshi2003@gmail.com**
 
 - ⚡ Fun fact **☁️ Currently exploring the clouds, but not the fluffy kind—AWS & DevOps are my jam.**
 
