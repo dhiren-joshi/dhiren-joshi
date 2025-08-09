@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [serverless web application](https://github.com/dhiren-joshi/Serverless-Web-Application)
+- 🔭 I’m currently working on [Model Context Protocol](https://github.com/dhiren-joshi/MCP)
 
 - 🌱 I’m currently learning **Web Develpoment and Devops**
 
