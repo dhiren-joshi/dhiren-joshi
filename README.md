@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Dhiren Joshi</h1>
-<h3 align="center">👨‍💻 Passionate about Web development and cloud architectures</h3>
+<h3 align="center">👨‍💻 Passionate about Development and cloud architectures</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </p>
@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Model Context Protocol](https://github.com/dhiren-joshi/MCP)
 
-- 🌱 I’m currently learning **Web Develpoment and Devops**
+- 🌱 I’m currently learning **Develpoment and Devops**
 
-- 👯 I’m looking to collaborate on **Cloud and Web Development Domain**
+- 👯 I’m looking to collaborate on **Cloud and Development Domain**
 
 - 📝 I write articles on [https://medium.com/@dhirenjoshi2003](https://medium.com/@dhirenjoshi2003)
 
 
-- 💬 Ask me about **Cloud Technologies (AWS, GCP), DevOps, and Frontend Tools**
+- 💬 Ask me about **Cloud Technologies (AWS, GCP) and DevOps**
 
 
 - 📫 How to reach me: **dhirenjoshi2003@gmail.com**
