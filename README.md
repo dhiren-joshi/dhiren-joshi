@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Model Context Protocol](https://github.com/dhiren-joshi/MCP)
 
-- 🌱 I’m currently learning **Development, Cloud and Devops**
+- 🌱 I’m currently learning **Cloud and Devops**
 
 - 👯 I’m looking to collaborate on **Cloud, Devops and Data Engineering**
 
