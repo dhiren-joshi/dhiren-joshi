@@ -26,7 +26,7 @@
 - 💬 Ask me about **Cloud Technologies (AWS, GCP), Data Engineering and DevOps**
 
 
-![](https://hit.yhype.me/github/profile?account_id=130563022)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,3 +44,4 @@
 [![An image of @dhirenjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhirenjoshi)](https://holopin.io/@dhirenjoshi)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" height="400">
+![](https://hit.yhype.me/github/profile?account_id=130563022)
