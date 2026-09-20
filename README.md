@@ -26,7 +26,7 @@
 - 💬 Ask me about **Cloud Technologies (AWS, GCP), Data Engineering and DevOps**
 
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dhiren-joshi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
